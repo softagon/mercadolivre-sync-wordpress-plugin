@@ -1,0 +1,1 @@
+# mercadolivre-sync-wordpress-plugin
